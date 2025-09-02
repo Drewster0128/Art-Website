@@ -2,8 +2,7 @@
   "name": "art-website",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Drewster0128/Art-Website.git"
@@ -14,5 +13,8 @@
     "url": "https://github.com/Drewster0128/Art-Website/issues"
   },
   "homepage": "https://github.com/Drewster0128/Art-Website#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
