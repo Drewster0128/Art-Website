@@ -17,6 +17,6 @@
   "homepage": "https://github.com/Drewster0128/ITMD443-Assignment1#readme",
   "description": "",
   "dependencies": {
-    "node": "^22.19.0"
+    "node": "^18.20.8"
   }
 }
