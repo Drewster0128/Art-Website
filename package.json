@@ -15,5 +15,8 @@
     "url": "https://github.com/Drewster0128/ITMD443-Assignment1/issues"
   },
   "homepage": "https://github.com/Drewster0128/ITMD443-Assignment1#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  }
 }
